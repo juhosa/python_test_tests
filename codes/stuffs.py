@@ -12,3 +12,8 @@ def return_str(string, count):
 def some_fancy_math_func(a):
     tmp = a - 3
     return math.pow(tmp, 3)
+
+
+def some_fancy_math_func2(a):
+    tmp = a - 3
+    return math.pow(tmp, 3)
